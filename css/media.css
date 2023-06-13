@@ -1,0 +1,7 @@
+@media only screen and (max-width: 768px){ 
+    /* For mobile phones: */
+    #navbar {
+      padding : 1%;
+      width : 18%;
+    }
+  }
